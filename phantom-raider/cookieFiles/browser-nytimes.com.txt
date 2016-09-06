@@ -1,0 +1,1 @@
+{"startedDateTime":"2016-09-05T18:54:40.280Z","url":"http://www.nytimes.com/","responseCookies":"nyt-a=b1d7803642abc235daa87f0053c3b359;path=/;domain=.nytimes.com;expires=Tue, 05 Sep 2017 18:54:40 UTC","pageref":"http://nytimes.com"}

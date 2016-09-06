@@ -1,0 +1,2 @@
+[General]
+cookies="@Variant(\0\0\0\x7f\0\0\0\x16QList<QNetworkCookie>\0\0\0\0\x1\0\0\0\x2\0\0\0}wfacookie=11201609051155071651183718; secure; HttpOnly; expires=Thu, 03-Sep-2026 18:55:07 GMT; domain=.wellsfargo.com; path=/\0\0\0\xe0utag_main=v_id:0156fbb4459300117f06d8cf33a500066001b05e00720$_sn:1$_ss:1$_pn:1%3Bexp-session$_st:1473103510739$ses_id:1473101710739%3Bexp-session; secure; expires=Tue, 05-Sep-2017 18:55:10 GMT; domain=.wellsfargo.com; path=/)"

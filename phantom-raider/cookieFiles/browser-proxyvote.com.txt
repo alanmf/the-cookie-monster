@@ -1,0 +1,1 @@
+{"startedDateTime":"2016-09-05T19:49:47.640Z","url":"https://central.proxyvote.com/","responseCookies":"proxyvotecom=5ccba3d8c6417033651830ab22e825e3c8a12ea5b50786e86b0d671a11473ecbca408695;path=/;secure;httponly","pageref":"http://proxyvote.com"}

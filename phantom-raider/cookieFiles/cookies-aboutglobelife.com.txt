@@ -1,0 +1,2 @@
+[General]
+cookies="@Variant(\0\0\0\x7f\0\0\0\x16QList<QNetworkCookie>\0\0\0\0\x1\0\0\0\x1\0\0\0Pmarket=en-US; expires=Tue, 05-Sep-2017 20:06:29 GMT; domain=.godaddy.com; path=/)"

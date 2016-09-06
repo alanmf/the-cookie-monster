@@ -1,0 +1,2 @@
+[General]
+cookies="@Variant(\0\0\0\x7f\0\0\0\x16QList<QNetworkCookie>\0\0\0\0\x1\0\0\0\x3\0\0\0kfdx_cbid=30707895801473102069303130117731; expires=Sun, 31-Aug-2036 19:01:09 GMT; domain=.fedex.com; path=/\0\0\0Rfdx_locale=en_US; expires=Sun, 31-Aug-2036 19:01:09 GMT; domain=.fedex.com; path=/\0\0\0LsiteDC=edc; expires=Tue, 06-Sep-2016 19:01:09 GMT; domain=.fedex.com; path=/)"

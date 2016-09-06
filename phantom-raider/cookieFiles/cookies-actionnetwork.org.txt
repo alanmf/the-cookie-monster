@@ -1,0 +1,2 @@
+[General]
+cookies="@Variant(\0\0\0\x7f\0\0\0\x16QList<QNetworkCookie>\0\0\0\0\x1\0\0\0\x3\0\0\0\x88__cfduid=d0b12fa55eb91b5b4d7ab91af1283b4211473105557; HttpOnly; expires=Tue, 05-Sep-2017 19:59:17 GMT; domain=.actionnetwork.org; path=/\0\0\0\x89__cfduid=d3716365c72ef77b80ecf891a109bc9741473105559; HttpOnly; expires=Tue, 05-Sep-2017 19:59:19 GMT; domain=.browser-update.org; path=/\0\0\0_browserupdateorg=pause; expires=Wed, 07-Sep-2016 19:59:19 GMT; domain=actionnetwork.org; path=/)"

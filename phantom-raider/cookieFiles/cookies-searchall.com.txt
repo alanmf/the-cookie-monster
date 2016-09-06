@@ -1,0 +1,2 @@
+[General]
+cookies="@Variant(\0\0\0\x7f\0\0\0\x16QList<QNetworkCookie>\0\0\0\0\x1\0\0\0\x2\0\0\0\x65_ga=GA1.2.1176310451.1473103760; expires=Wed, 05-Sep-2018 19:29:20 GMT; domain=.searchall.com; path=/\0\0\0L_gat=1; expires=Mon, 05-Sep-2016 19:39:20 GMT; domain=.searchall.com; path=/)"

@@ -1,0 +1,2 @@
+[General]
+cookies="@Variant(\0\0\0\x7f\0\0\0\x16QList<QNetworkCookie>\0\0\0\0\x1\0\0\0\x4\0\0\0g_ga=GA1.2.642720996.1473106033; expires=Wed, 05-Sep-2018 20:07:13 GMT; domain=.cleverbridge.com; path=/\0\0\0O_gat=1; expires=Mon, 05-Sep-2016 20:17:13 GMT; domain=.cleverbridge.com; path=/\0\0\0oELOQUA=GUID=2FC6E32C592F4D27A25C65447126FE19; expires=Wed, 05-Sep-2018 20:07:13 GMT; domain=.eloqua.com; path=/\0\0\0OELQSTATUS=OK; expires=Wed, 05-Sep-2018 20:07:13 GMT; domain=.eloqua.com; path=/)"

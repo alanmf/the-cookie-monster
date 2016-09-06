@@ -1,0 +1,2 @@
+[General]
+cookies="@Variant(\0\0\0\x7f\0\0\0\x16QList<QNetworkCookie>\0\0\0\0\x1\0\0\0\x4\0\0\0\x9avisid_incap_879599=BzC2hl9+RXC3nuGgmur8phjFzVcAAAAAQUIPAAAAAADMqOKyeonAamr83WGjmZQ/; expires=Tue, 05-Sep-2017 12:45:39 GMT; domain=.powerinbox.com; path=/\0\0\0\x61___utmvmDluaMtt=HCGvHSFnDYw; expires=Mon, 05-Sep-2016 19:33:49 GMT; domain=powerinbox.com; path=/\0\0\0^___utmvaDluaMtt=kMQ\x1wuXY; expires=Mon, 05-Sep-2016 19:33:49 GMT; domain=powerinbox.com; path=/\0\0\0g___utmvbDluaMtt=KZC XlzOnals: zta; expires=Mon, 05-Sep-2016 19:33:49 GMT; domain=powerinbox.com; path=/)"

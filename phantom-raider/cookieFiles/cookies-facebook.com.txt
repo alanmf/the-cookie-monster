@@ -1,0 +1,2 @@
+[General]
+cookies="@Variant(\0\0\0\x7f\0\0\0\x16QList<QNetworkCookie>\0\0\0\0\x1\0\0\0\x2\0\0\0\x86\x66r=0wmhOYmJymDnrTFkA..BXzb8B.LH.AAA.0.0.BXzb8B.AWW8-rFg; HttpOnly; expires=Sun, 04-Dec-2016 18:52:49 GMT; domain=.facebook.com; path=/\0\0\0\x66_js_datr=Ab_NV2km7Dn0iJ3gK1rtbr4N; expires=Wed, 05-Sep-2018 18:52:50 GMT; domain=.facebook.com; path=/)"

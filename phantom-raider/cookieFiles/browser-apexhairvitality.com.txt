@@ -1,0 +1,1 @@
+{"startedDateTime":"2016-09-05T19:33:19.913Z","url":"https://apexhairvitality.com/","responseCookies":"PHPSESSID=gchgjf3lpms6d3pevvroljffm1; path=/\n3d4c74ecc51681ce985ed7fe34519e19=1; path=/; domain=.apexhairvitality.com; httponly","pageref":"http://apexhairvitality.com"}

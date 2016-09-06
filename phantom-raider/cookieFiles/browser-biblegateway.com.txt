@@ -1,0 +1,1 @@
+{"startedDateTime":"2016-09-05T19:54:49.138Z","url":"https://www.biblegateway.com/","responseCookies":"bg_id=6de0bdffb3dadc530f22f709b96e6e8e; path=/; domain=.biblegateway.com; secure\na9g-ho=3; path=/; domain=.biblegateway.com; secure","pageref":"http://biblegateway.com"}

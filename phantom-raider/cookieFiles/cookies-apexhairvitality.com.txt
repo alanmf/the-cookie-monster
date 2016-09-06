@@ -1,0 +1,2 @@
+[General]
+cookies="@Variant(\0\0\0\x7f\0\0\0\x16QList<QNetworkCookie>\0\0\0\0\x1\0\0\0\x2\0\0\0\x8f_pk_id.11.939e=5834b985e0a0b810.1473104002.1.1473104002.1473104002.; expires=Tue, 03-Oct-2017 19:33:22 GMT; domain=apexhairvitality.com; path=/\0\0\0]_pk_ses.11.939e=*; expires=Mon, 05-Sep-2016 20:03:21 GMT; domain=apexhairvitality.com; path=/)"

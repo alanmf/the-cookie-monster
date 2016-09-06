@@ -1,0 +1,1 @@
+{"startedDateTime":"2016-09-05T19:59:53.837Z","url":"http://rrimpl.com/","responseCookies":"JSESSIONID=46FAA4767ACE51D18A23A07058B522C3; Path=/","pageref":"http://rrimpl.com"}

@@ -1,0 +1,2 @@
+[General]
+cookies="@Variant(\0\0\0\x7f\0\0\0\x16QList<QNetworkCookie>\0\0\0\0\x1\0\0\0\x1\0\0\0\xd4NID=85=kO3Z-4bZTCmxKwJyI2BqQSKQGWKWaf8jwdULWr940zTtp5fPnFy_pmFYKXL83S-sXOuGL8skLCuGwSoYKyFFLZBD_21_h2x1Nqw8eI4vZqOkqoEx1o0mB8VQNT-Bpcao; HttpOnly; expires=Tue, 07-Mar-2017 18:53:45 GMT; domain=.google.com; path=/)"

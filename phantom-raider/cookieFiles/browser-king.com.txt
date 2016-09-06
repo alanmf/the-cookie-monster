@@ -1,0 +1,1 @@
+{"startedDateTime":"2016-09-05T19:48:25.662Z","url":"https://king.com/","responseCookies":"JSESSIONID=evrr1b8yj6472sbsk0rqbk3c;Path=/;Secure","pageref":"http://king.com"}

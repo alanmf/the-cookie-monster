@@ -1,0 +1,2 @@
+[General]
+cookies="@Variant(\0\0\0\x7f\0\0\0\x16QList<QNetworkCookie>\0\0\0\0\x1\0\0\0\x3\0\0\0T_gat_GSA_ENOR0=1; expires=Mon, 05-Sep-2016 19:14:24 GMT; domain=.www.nih.gov; path=/\0\0\0\x63_ga=GA1.3.1347129599.1473102265; expires=Wed, 05-Sep-2018 19:04:24 GMT; domain=.www.nih.gov; path=/\0\0\0T_gat_GSA_ENOR1=1; expires=Mon, 05-Sep-2016 19:14:24 GMT; domain=.www.nih.gov; path=/)"

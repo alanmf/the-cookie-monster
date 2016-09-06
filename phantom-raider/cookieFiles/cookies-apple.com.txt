@@ -1,0 +1,2 @@
+[General]
+cookies="@Variant(\0\0\0\x7f\0\0\0\x16QList<QNetworkCookie>\0\0\0\0\x1\0\0\0\x4\0\0\0is_fid=6FB9AF1E8A9103FC-151F9E3AA19702F6; expires=Wed, 05-Sep-2018 18:55:30 GMT; domain=.apple.com; path=/\0\0\0^s_pathLength=homepage%3D1%2C; expires=Mon, 05-Sep-2016 19:25:30 GMT; domain=.apple.com; path=/\0\0\0Ss_invisit_n2_us=3; expires=Mon, 05-Sep-2016 19:25:30 GMT; domain=.apple.com; path=/\0\0\0Ts_vnum_n2_us=3%7C1; expires=Wed, 05-Sep-2018 18:55:30 GMT; domain=.apple.com; path=/)"

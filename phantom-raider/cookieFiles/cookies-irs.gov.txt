@@ -1,0 +1,2 @@
+[General]
+cookies="@Variant(\0\0\0\x7f\0\0\0\x16QList<QNetworkCookie>\0\0\0\0\x1\0\0\0\x5\0\0\0IGPS=1; expires=Mon, 05-Sep-2016 20:13:40 GMT; domain=.youtube.com; path=/\0\0\0lVISITOR_INFO1_LIVE=_UfjaKQ3GIE; HttpOnly; expires=Sun, 07-May-2017 07:36:40 GMT; domain=.youtube.com; path=/\0\0\0\x46_gat=1; expires=Mon, 05-Sep-2016 19:53:40 GMT; domain=.irs.gov; path=/\0\0\0]_ga=GA1.2.17328590.1473104621; expires=Wed, 05-Sep-2018 19:43:40 GMT; domain=.irs.gov; path=/\0\0\0P_gat_GSA_ENOR0=1; expires=Mon, 05-Sep-2016 19:53:40 GMT; domain=.irs.gov; path=/)"

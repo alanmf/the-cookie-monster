@@ -1,0 +1,2 @@
+[General]
+cookies="@Variant(\0\0\0\x7f\0\0\0\x16QList<QNetworkCookie>\0\0\0\0\x1\0\0\0\x5\0\0\0\\BX=fhpffb5bsrh9r&b=3&s=rs; expires=Tue, 05-Sep-2017 19:19:23 GMT; domain=.flickr.com; path=/\0\0\0Lxb=099323; expires=Tue, 05-Sep-2017 19:19:23 GMT; domain=.flickr.com; path=/\0\0\0\x62_ga=GA1.2.1921937176.1473103164; expires=Wed, 05-Sep-2018 19:19:24 GMT; domain=.flickr.com; path=/\0\0\0I_gat=1; expires=Mon, 05-Sep-2016 19:29:24 GMT; domain=.flickr.com; path=/\0\0\0Xvp=400%2C300%2C1%2C16; expires=Wed, 05-Oct-2016 19:19:24 GMT; domain=.flickr.com; path=/)"

@@ -1,0 +1,2 @@
+[General]
+cookies="@Variant(\0\0\0\x7f\0\0\0\x16QList<QNetworkCookie>\0\0\0\0\x1\0\0\0\x1\0\0\0\xd9utag_main=v_id:0156fbb52a8d0022fd93f32913f000066001405e00720$_sn:1$_ss:1$_st:1473103569359$ses_id:1473101769359%3Bexp-session$_pn:1%3Bexp-session; secure; expires=Tue, 05-Sep-2017 18:56:09 GMT; domain=.ups.com; path=/)"

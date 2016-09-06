@@ -1,0 +1,2 @@
+[General]
+cookies="@Variant(\0\0\0\x7f\0\0\0\x16QList<QNetworkCookie>\0\0\0\0\x1\0\0\0\x3\0\0\0\x9d_vwo_uuid_v2=D1C1101D1703F43C81019B087A50CD29|7d049a1b60e1bf74da6927f5bf4a3da7; expires=Wed, 06-Sep-2017 19:55:45 GMT; domain=.thefinancestandard.com; path=/\0\0\0[tracking202subid=48529768; expires=Wed, 05-Oct-2016 19:55:46 GMT; domain=.ctrck.com; path=/\0\0\0^tracking202subid_a_=48529768; expires=Wed, 05-Oct-2016 19:55:46 GMT; domain=.ctrck.com; path=/)"

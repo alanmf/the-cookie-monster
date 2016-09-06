@@ -1,0 +1,2 @@
+[General]
+cookies="@Variant(\0\0\0\x7f\0\0\0\x16QList<QNetworkCookie>\0\0\0\0\x1\0\0\0\x3\0\0\0K_cb_ls=1; expires=Thu, 05-Oct-2017 19:11:08 GMT; domain=www.npr.org; path=/\0\0\0Y_cb=DTbjZYC0Pj7BDeAnGF; expires=Thu, 05-Oct-2017 19:11:08 GMT; domain=www.npr.org; path=/\0\0\0m_chartbeat2=.1473102668387.1473102668387.1; expires=Thu, 05-Oct-2017 19:11:08 GMT; domain=www.npr.org; path=/)"

@@ -1,0 +1,2 @@
+[General]
+cookies="@Variant(\0\0\0\x7f\0\0\0\x16QList<QNetworkCookie>\0\0\0\0\x1\0\0\0\x1\0\0\0h__tad=1473103670.4404320; expires=Thu, 03-Sep-2026 19:27:50 GMT; domain=eudorbollywoodkhabri.net; path=/)"

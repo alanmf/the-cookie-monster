@@ -1,0 +1,2 @@
+[General]
+cookies="@Variant(\0\0\0\x7f\0\0\0\x16QList<QNetworkCookie>\0\0\0\0\x1\0\0\0\x3\0\0\0\x89__cfduid=db19db500f8856e071fad3b0c9c68e01e1473103448; HttpOnly; expires=Tue, 05-Sep-2017 19:24:08 GMT; domain=.primalhealthlp.com; path=/\0\0\0i_ga=GA1.2.161751441.1473103449; expires=Wed, 05-Sep-2018 19:24:09 GMT; domain=.primalhealthlp.com; path=/\0\0\0Q_gat=1; expires=Mon, 05-Sep-2016 19:34:09 GMT; domain=.primalhealthlp.com; path=/)"

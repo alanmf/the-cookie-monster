@@ -1,0 +1,2 @@
+[General]
+cookies="@Variant(\0\0\0\x7f\0\0\0\x16QList<QNetworkCookie>\0\0\0\0\x1\0\0\0\x3\0\0\0\x93GAPS=1:5MYDTovY7eZ8Hy2s3kzIDngyrNKQNA:crJqvvpbIpbNH0Ki; secure; HttpOnly; expires=Wed, 05-Sep-2018 18:54:47 GMT; domain=accounts.google.com; path=/\0\0\0\x62_ga=GA1.2.998665811.1473101688; expires=Wed, 05-Sep-2018 18:54:48 GMT; domain=.blogger.com; path=/\0\0\0J_gat=1; expires=Mon, 05-Sep-2016 19:04:48 GMT; domain=.blogger.com; path=/)"

@@ -1,0 +1,2 @@
+[General]
+cookies="@Variant(\0\0\0\x7f\0\0\0\x16QList<QNetworkCookie>\0\0\0\0\x1\0\0\0\x2\0\0\0\x61\x41RPNTS=1164290240.36895.0000; expires=Sat, 04-Mar-2017 18:55:21 GMT; domain=glassdoor.com; path=/\0\0\0\xd4NID=85=UkSwlkftF7tOR_RPU4ZyPNV1oVFhAzE2bJWPIhs8FhTA8sawyB1TuEk8SQl6PDAYM5ERRElXxg0YneQXkxwU3MfzAF32emL6pN6ShufVERmO6box_2tr74qHErJ-kDHE; HttpOnly; expires=Tue, 07-Mar-2017 18:55:21 GMT; domain=.google.com; path=/)"

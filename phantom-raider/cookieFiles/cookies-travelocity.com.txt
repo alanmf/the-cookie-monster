@@ -1,0 +1,2 @@
+[General]
+cookies="@Variant(\0\0\0\x7f\0\0\0\x16QList<QNetworkCookie>\0\0\0\0\x1\0\0\0\x4\0\0\0qMC1=GUID=6a44512929b1436ca66b4fdb1734c2c0; expires=Wed, 08-Sep-2021 12:44:38 GMT; domain=.travelocity.com; path=/\0\0\0pHMS=75CA2ECB-0C48-4335-88C2-BADE3C8F398A; expires=Mon, 05-Sep-2016 20:21:18 GMT; domain=.travelocity.com; path=/\0\0\0OHSEWC=0; expires=Mon, 05-Sep-2016 20:21:18 GMT; domain=.travelocity.com; path=/\0\0\0kabucket=CgMioVfNzLacW2zIP4lFAg==; expires=Tue, 05-Sep-2017 19:51:18 GMT; domain=www.travelocity.com; path=/)"

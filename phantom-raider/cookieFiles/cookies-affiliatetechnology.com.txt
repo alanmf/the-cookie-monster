@@ -1,0 +1,2 @@
+[General]
+cookies="@Variant(\0\0\0\x7f\0\0\0\x16QList<QNetworkCookie>\0\0\0\0\x1\0\0\0\x1\0\0\0\x8e__cfduid=d762d3b49d8a63873eea1e1630c56c97a1473105418; HttpOnly; expires=Tue, 05-Sep-2017 19:56:58 GMT; domain=.affiliatetechnology.com; path=/)"

@@ -1,0 +1,1 @@
+{"startedDateTime":"2016-09-05T19:53:40.024Z","url":"http://aurorasuite.com/","responseCookies":".ASPXANONYMOUS=7nUpCUE-0gEkAAAANjg0ZjFkNTAtNTM4Ni00YmExLThiZmYtYmJiZGMzNWRkZTk3DCIBTAqWY2MU9eIHb1tMdbnY6PdiV2X4IZDFb9J_uCQ1; expires=Mon, 14-Nov-2016 06:33:39 GMT; path=/; HttpOnly","pageref":"http://aurorasuite.com"}

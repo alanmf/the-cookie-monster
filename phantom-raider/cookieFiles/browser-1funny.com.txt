@@ -1,0 +1,1 @@
+{"startedDateTime":"2016-09-05T19:33:25.392Z","url":"http://1funny.com/","responseCookies":"PHPSESSID=dde3dee049be92aee88a9e9d08014502; path=/","pageref":"http://1funny.com"}

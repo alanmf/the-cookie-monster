@@ -1,0 +1,2 @@
+[General]
+cookies="@Variant(\0\0\0\x7f\0\0\0\x16QList<QNetworkCookie>\0\0\0\0\x1\0\0\0\x1\0\0\0\x90__cfduid=dbf44b7be1ce832c3883bee77ef39389a1473104295; HttpOnly; expires=Tue, 05-Sep-2017 19:38:15 GMT; domain=.hollywoodsocialtrends.com; path=/)"

@@ -1,0 +1,1 @@
+{"startedDateTime":"2016-09-05T19:59:25.169Z","url":"http://cdn.taboola.com/libtrc/adwave-historicaltimes/loader.js","responseCookies":"akaas_abtesting=2147483647~rv=87~id=0f602d9425799e908d5a4f58ebef3f1c; path=/","pageref":"http://historicaltimes.com"}

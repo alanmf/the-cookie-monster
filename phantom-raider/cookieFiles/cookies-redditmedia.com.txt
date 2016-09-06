@@ -1,0 +1,2 @@
+[General]
+cookies="@Variant(\0\0\0\x7f\0\0\0\x16QList<QNetworkCookie>\0\0\0\0\x1\0\0\0\x2\0\0\0\x86__cfduid=d74759c2c0f5a87ed5d727938593466bc1473105374; HttpOnly; expires=Tue, 05-Sep-2017 19:56:14 GMT; domain=.redditmedia.com; path=/\0\0\0\x87__cfduid=d4c385c5cf32f7e010d39536ee7eeddd61473105374; HttpOnly; expires=Tue, 05-Sep-2017 19:56:14 GMT; domain=.redditstatic.com; path=/)"

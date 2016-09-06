@@ -1,0 +1,2 @@
+[General]
+cookies="@Variant(\0\0\0\x7f\0\0\0\x16QList<QNetworkCookie>\0\0\0\0\x1\0\0\0\x3\0\0\0Zak_location=US,UT,OREM,770; expires=Mon, 12-Sep-2016 20:01:20 GMT; domain=.ncl.com; path=/\0\0\0MNcl_region=UT; expires=Mon, 12-Sep-2016 20:01:20 GMT; domain=.ncl.com; path=/\0\0\0oAkaUTrackingID=3E31FAD7F74298D6FF125E00B0FF42C3; expires=Sat, 09-Sep-2023 20:01:20 GMT; domain=.ncl.com; path=/)"

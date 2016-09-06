@@ -1,0 +1,2 @@
+[General]
+cookies="@Variant(\0\0\0\x7f\0\0\0\x16QList<QNetworkCookie>\0\0\0\0\x1\0\0\0\x3\0\0\0h_ga=GA1.2.1446458691.1473103369; expires=Wed, 05-Sep-2018 19:22:49 GMT; domain=.123greetings.com; path=/\0\0\0O_gat=1; expires=Mon, 05-Sep-2016 19:32:49 GMT; domain=.123greetings.com; path=/\0\0\0\xb7\x63onfig_data=CADB=1|CLG=1|CBR=1|CUB=1|CCC=1|CFLC=1|CPFR=1|CBRR=1|TCP=1|TAP=1|TCAP=1|TRE=1|QkDshLgd=0|FBCon=1; expires=Mon, 05-Sep-2016 19:27:49 GMT; domain=www.123greetings.com; path=/)"

@@ -1,0 +1,2 @@
+[General]
+cookies="@Variant(\0\0\0\x7f\0\0\0\x16QList<QNetworkCookie>\0\0\0\0\x1\0\0\0\x2\0\0\0\x61_ga=GA1.2.868700889.1473104664; expires=Wed, 05-Sep-2018 19:44:24 GMT; domain=.c-span.org; path=/\0\0\0I_gat=1; expires=Mon, 05-Sep-2016 19:54:24 GMT; domain=.c-span.org; path=/)"

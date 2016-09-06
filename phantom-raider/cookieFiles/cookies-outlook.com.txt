@@ -1,0 +1,2 @@
+[General]
+cookies="@Variant(\0\0\0\x7f\0\0\0\x16QList<QNetworkCookie>\0\0\0\0\x1\0\0\0\x2\0\0\0nCookieVersion=2; secure; HttpOnly; expires=Tue, 05-Sep-2017 19:18:12 GMT; domain=outlook.office365.com; path=/\0\0\0~ClientId=58BCC50B43EC4C5A98CA2EFA396CD72C; secure; expires=Tue, 05-Sep-2017 19:18:12 GMT; domain=outlook.office365.com; path=/)"

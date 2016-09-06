@@ -1,0 +1,2 @@
+[General]
+cookies="@Variant(\0\0\0\x7f\0\0\0\x16QList<QNetworkCookie>\0\0\0\0\x1\0\0\0\x1\0\0\0\xbe.ASPXANONYMOUS=eXDpe0I-0gEkAAAAYzYxY2RiZjgtNzljMC00OTIwLTg1MDgtNjQ0YTM0ZDMzZmUxIaZ9QEFrVORXQgdZW-ynjQpHinM1; HttpOnly; expires=Mon, 14-Nov-2016 06:44:01 GMT; domain=www.asiandate.com; path=/)"

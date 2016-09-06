@@ -1,0 +1,2 @@
+[General]
+cookies="@Variant(\0\0\0\x7f\0\0\0\x16QList<QNetworkCookie>\0\0\0\0\x1\0\0\0\x4\0\0\0L__utmt=1; expires=Mon, 05-Sep-2016 19:30:05 GMT; domain=.actblue.com; path=/\0\0\0\x81__utma=88171332.1507715280.1473103205.1473103205.1473103205.1; expires=Wed, 05-Sep-2018 19:20:05 GMT; domain=.actblue.com; path=/\0\0\0\x63__utmb=88171332.1.10.1473103205; expires=Mon, 05-Sep-2016 19:50:05 GMT; domain=.actblue.com; path=/\0\0\0\x90__utmz=88171332.1473103205.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); expires=Tue, 07-Mar-2017 07:20:05 GMT; domain=.actblue.com; path=/)"

@@ -1,0 +1,2 @@
+[General]
+cookies="@Variant(\0\0\0\x7f\0\0\0\x16QList<QNetworkCookie>\0\0\0\0\x1\0\0\0\x2\0\0\0___tad=1473105534.5971790; expires=Thu, 03-Sep-2026 19:58:54 GMT; domain=eichebasket.net; path=/\0\0\0pgvc=920vr2206511346512560; HttpOnly; expires=Sat, 04-Sep-2021 19:58:54 GMT; domain=.ww35.eichebasket.net; path=/)"

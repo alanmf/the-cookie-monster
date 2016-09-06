@@ -1,0 +1,1 @@
+{"startedDateTime":"2016-09-05T19:56:13.933Z","url":"http://do-do-re.com/","responseCookies":"__cfduid=d14a910aec73f2d19eb5cd49f60db197d1473105374; expires=Tue, 05-Sep-17 19:56:14 GMT; path=/; domain=.do-do-re.com; HttpOnly","pageref":"http://do-do-re.com"}

@@ -1,0 +1,2 @@
+[General]
+cookies="@Variant(\0\0\0\x7f\0\0\0\x16QList<QNetworkCookie>\0\0\0\0\x1\0\0\0\x4\0\0\0luser_id=651f60c3c1225470b7d45bd8df10602a; expires=Wed, 05-Oct-2016 19:53:28 GMT; domain=hometalk.com; path=/\0\0\0puser_id=eb51c0b53400fe1957bf276dd674039f; expires=Wed, 05-Oct-2016 19:53:28 GMT; domain=www.hometalk.com; path=/\0\0\0mtuuid=25c34842-c247-4967-8459-0cf2de9cea1f; expires=Wed, 05-Sep-2018 19:53:29 GMT; domain=d.liadm.com; path=/\0\0\0_tuuid_last_update=1473105209; expires=Wed, 05-Sep-2018 19:53:29 GMT; domain=d.liadm.com; path=/)"

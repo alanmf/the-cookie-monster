@@ -1,0 +1,2 @@
+[General]
+cookies="@Variant(\0\0\0\x7f\0\0\0\x16QList<QNetworkCookie>\0\0\0\0\x1\0\0\0\x2\0\0\0\x62_ga=GA1.2.1071366279.1473104009; expires=Wed, 05-Sep-2018 19:33:28 GMT; domain=.1funny.com; path=/\0\0\0I_gat=1; expires=Mon, 05-Sep-2016 19:43:28 GMT; domain=.1funny.com; path=/)"

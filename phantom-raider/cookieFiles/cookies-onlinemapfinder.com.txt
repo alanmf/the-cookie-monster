@@ -1,0 +1,2 @@
+[General]
+cookies="@Variant(\0\0\0\x7f\0\0\0\x16QList<QNetworkCookie>\0\0\0\0\x1\0\0\0\x2\0\0\0{ltm-1d=rd119o00000000000000000000ffff0a5a4c4co80; expires=Tue, 06-Sep-2016 19:50:12 GMT; domain=onlinemapfinder.com; path=/\0\0\0\x7fltm-1d=rd119o00000000000000000000ffff0a5a4c66o80; expires=Tue, 06-Sep-2016 19:50:12 GMT; domain=www.onlinemapfinder.com; path=/)"

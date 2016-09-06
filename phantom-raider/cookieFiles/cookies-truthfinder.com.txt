@@ -1,0 +1,2 @@
+[General]
+cookies="@Variant(\0\0\0\x7f\0\0\0\x16QList<QNetworkCookie>\0\0\0\0\x1\0\0\0\x4\0\0\0\x86__cfduid=db7835233beab14d679f5d2b4741cfef61473102391; HttpOnly; expires=Tue, 05-Sep-2017 19:06:31 GMT; domain=.truthfinder.com; path=/\0\0\0g_ga=GA1.2.1301354096.1473102393; expires=Wed, 05-Sep-2018 19:06:32 GMT; domain=.truthfinder.com; path=/\0\0\0N_gat=1; expires=Mon, 05-Sep-2016 19:16:32 GMT; domain=.truthfinder.com; path=/\0\0\0\x66test_cookie=CheckForPermission; expires=Mon, 05-Sep-2016 19:21:32 GMT; domain=.doubleclick.net; path=/)"

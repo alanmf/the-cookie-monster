@@ -1,0 +1,2 @@
+[General]
+cookies="@Variant(\0\0\0\x7f\0\0\0\x16QList<QNetworkCookie>\0\0\0\0\x1\0\0\0\x3\0\0\0\x85__utma=89719624.1769832079.1473105139.1473105139.1473105139.1; expires=Wed, 05-Sep-2018 19:52:18 GMT; domain=.browsehappy.com; path=/\0\0\0W__utmb=89719624; expires=Mon, 05-Sep-2016 20:22:18 GMT; domain=.browsehappy.com; path=/\0\0\0\x94__utmz=89719624.1473105139.1.1.utmccn=(direct)|utmcsr=(direct)|utmcmd=(none); expires=Tue, 07-Mar-2017 07:52:18 GMT; domain=.browsehappy.com; path=/)"

@@ -1,0 +1,2 @@
+[General]
+cookies="@Variant(\0\0\0\x7f\0\0\0\x16QList<QNetworkCookie>\0\0\0\0\x1\0\0\0\x1\0\0\0\x87YPF8827340282Jdskjhfiw_928937459182JAX666=71.199.6.204; expires=Thu, 15-Sep-2016 19:57:50 GMT; domain=shadowhawkflashlights.com; path=/)"

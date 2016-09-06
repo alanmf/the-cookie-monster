@@ -1,0 +1,2 @@
+[General]
+cookies="@Variant(\0\0\0\x7f\0\0\0\x16QList<QNetworkCookie>\0\0\0\0\x1\0\0\0\x3\0\0\0pwfvt_2335410205=57cdcaf05a958; HttpOnly; expires=Mon, 05-Sep-2016 20:13:44 GMT; domain=freehealthnow.com; path=/\0\0\0twfvt_2335410205=57cdcaf6e8b21; HttpOnly; expires=Mon, 05-Sep-2016 20:13:51 GMT; domain=www.freehealthnow.com; path=/\0\0\0\x9blidc=\"b=LGST07:g=116:u=1:i=1473104633:t=1473191033:s=AQGpD4gqb2jXqkhscX83L5vfeKCXP75_\"; expires=Tue, 06-Sep-2016 19:43:53 GMT; domain=.linkedin.com; path=/)"

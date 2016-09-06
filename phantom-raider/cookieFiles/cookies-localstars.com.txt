@@ -1,0 +1,2 @@
+[General]
+cookies="@Variant(\0\0\0\x7f\0\0\0\x16QList<QNetworkCookie>\0\0\0\0\x1\0\0\0\x3\0\0\0^_icl_current_language=en; expires=Tue, 06-Sep-2016 19:53:02 GMT; domain=localstars.com; path=/\0\0\0\x62_icl_current_language=en; expires=Tue, 06-Sep-2016 19:53:07 GMT; domain=www.localstars.com; path=/\0\0\0\x65_icl_visitor_lang_js=en-us; expires=Tue, 06-Sep-2016 19:53:07 GMT; domain=.www.localstars.com; path=/)"

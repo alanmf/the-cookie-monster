@@ -1,0 +1,2 @@
+[General]
+cookies="@Variant(\0\0\0\x7f\0\0\0\x16QList<QNetworkCookie>\0\0\0\0\x1\0\0\0\x3\0\0\0j_ga=GA1.2.1199894882.1473105675; expires=Wed, 05-Sep-2018 20:01:14 GMT; domain=.featureforward.com; path=/\0\0\0Q_gat=1; expires=Mon, 05-Sep-2016 20:11:14 GMT; domain=.featureforward.com; path=/\0\0\0\xd4NID=85=DXTm_n7DTrrtOpeM5AnhBu879pEbZ7wDmwwQ7iz_WX16HqFwX-BHyaVbkxDPvNBXdihJFHRmPvhyL_yd1yGJ6aj-dFjzz0O3anQaNNoDUCT12Yc1dUN8NttaiU8TiDud; HttpOnly; expires=Tue, 07-Mar-2017 20:01:15 GMT; domain=.google.com; path=/)"

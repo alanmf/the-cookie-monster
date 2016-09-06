@@ -1,0 +1,2 @@
+[General]
+cookies="@Variant(\0\0\0\x7f\0\0\0\x16QList<QNetworkCookie>\0\0\0\0\x1\0\0\0\x2\0\0\0\x61RMID=007f0101169857cdbf70000b; expires=Tue, 05-Sep-2017 18:54:40 GMT; domain=.nytimes.com; path=/\0\0\0jnyt-a=b1d7803642abc235daa87f0053c3b359; expires=Tue, 05-Sep-2017 18:54:40 GMT; domain=.nytimes.com; path=/)"

@@ -1,0 +1,2 @@
+[General]
+cookies="@Variant(\0\0\0\x7f\0\0\0\x16QList<QNetworkCookie>\0\0\0\0\x1\0\0\0\x4\0\0\0sUID=17418484a18039a1a7faae41473105671; expires=Sun, 26-Aug-2018 20:01:11 GMT; domain=.scorecardresearch.com; path=/\0\0\0]UIDR=1473105671; expires=Sun, 26-Aug-2018 20:01:11 GMT; domain=.scorecardresearch.com; path=/\0\0\0ofr=0AFmq6k6goVvLCRiX..BXzc8H...1.0.BXzc8H.; expires=Sun, 04-Dec-2016 20:01:11 GMT; domain=.facebook.com; path=/\0\0\0qs_vi=[CS]v1|2BE6E78385030FE7-40001187C000038D[CE]; expires=Wed, 05-Sep-2018 20:01:11 GMT; domain=.mlb.com; path=/)"

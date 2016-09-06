@@ -1,0 +1,2 @@
+[General]
+cookies="@Variant(\0\0\0\x7f\0\0\0\x16QList<QNetworkCookie>\0\0\0\0\x1\0\0\0\x2\0\0\0lexp_last_visit=1157744948; expires=Tue, 05-Sep-2017 19:49:08 GMT; domain=www.mynewsletterbuilder.com; path=/\0\0\0oexp_last_activity=1473104948; expires=Tue, 05-Sep-2017 19:49:08 GMT; domain=www.mynewsletterbuilder.com; path=/)"

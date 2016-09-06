@@ -1,0 +1,1 @@
+{"startedDateTime":"2016-09-05T19:56:58.412Z","url":"http://affiliatetechnology.com/","responseCookies":"__cfduid=d762d3b49d8a63873eea1e1630c56c97a1473105418; expires=Tue, 05-Sep-17 19:56:58 GMT; path=/; domain=.affiliatetechnology.com; HttpOnly","pageref":"http://affiliatetechnology.com"}

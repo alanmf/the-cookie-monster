@@ -1,0 +1,2 @@
+[General]
+cookies="@Variant(\0\0\0\x7f\0\0\0\x16QList<QNetworkCookie>\0\0\0\0\x1\0\0\0\x4\0\0\0ipsession=jTUL9ZdpUnNSIUKSbA5yzfnZDtg; expires=Tue, 05-Sep-2017 18:56:50 GMT; domain=.mapquest.com; path=/\0\0\0Ruacguard=true; expires=Mon, 19-Sep-2016 18:56:50 GMT; domain=.mapquest.com; path=/\0\0\0UIDSYNC=v~12f6; expires=Wed, 06-Sep-2017 18:56:51 GMT; domain=.advertising.com; path=/\0\0\0sAPID=UP816471c8-739a-11e6-893a-00163ea13005; expires=Wed, 06-Sep-2017 18:56:51 GMT; domain=.advertising.com; path=/)"

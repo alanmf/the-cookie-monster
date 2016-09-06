@@ -1,0 +1,1 @@
+{"startedDateTime":"2016-09-05T18:52:45.775Z","url":"http://www.google.com/","responseCookies":"NID=85=VNbkwh3i3XtC-Wvd-j-jX8Fg4LkH_1cuwNJqYBQRO9WZ6Z2LgGvHPhgUXBRrSkIgqiNnRsm5vKO3s_yqnwv04Ig0xHpJcQGQW7aMO5De6koraE7S1v7LcdaaiXqri-CJs5Q_iW6FBW31lw; expires=Tue, 07-Mar-2017 18:52:45 GMT; path=/; domain=.google.com; HttpOnly","pageref":"http://google.com"}

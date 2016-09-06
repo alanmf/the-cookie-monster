@@ -1,0 +1,2 @@
+[General]
+cookies="@Variant(\0\0\0\x7f\0\0\0\x16QList<QNetworkCookie>\0\0\0\0\x1\0\0\0\x4\0\0\0HXP02=DV5; expires=Sun, 04-Dec-2016 19:30:58 GMT; domain=.wsj.com; path=/\0\0\0tDJCOOKIE=ORC%3Dna%2Cus%7C%7Cfp_axes_width%3Dat4units; expires=Tue, 05-Sep-2017 19:31:00 GMT; domain=.wsj.com; path=/\0\0\0Qwsjregion=na%2Cus; expires=Wed, 05-Oct-2016 19:31:00 GMT; domain=.wsj.com; path=/\0\0\0nvidoraUserId=vp7cl3qkcjkas64k6qnmhtoooc9p2f; expires=Sat, 05-Nov-2016 15:31:00 GMT; domain=www.wsj.com; path=/)"

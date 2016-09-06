@@ -1,0 +1,1 @@
+{"startedDateTime":"2016-09-05T20:07:37.458Z","url":"http://mcc.godaddy.com/park/pKMhrzWupKc2LKWinT9irKVhpTW6","responseCookies":"market=en-US; domain=godaddy.com; expires=Tue, 05-Sep-2017 20:07:37 GMT; path=/","pageref":"http://diamondminebubble.com"}

@@ -1,0 +1,2 @@
+[General]
+cookies="@Variant(\0\0\0\x7f\0\0\0\x16QList<QNetworkCookie>\0\0\0\0\x1\0\0\0\x1\0\0\0\x61_ga=GA1.2.64251598.1473105174; expires=Wed, 05-Sep-2018 19:52:54 GMT; domain=.mozilla.org; path=/)"

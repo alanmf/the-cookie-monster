@@ -1,0 +1,2 @@
+[General]
+cookies="@Variant(\0\0\0\x7f\0\0\0\x16QList<QNetworkCookie>\0\0\0\0\x1\0\0\0\x2\0\0\0vSID=N_rtrRApxNuxb3ttuHgW3BPPn7ryoq_CGDXx5ovw2Ws7hSCobznmVqcaDMZnTjDmvEHEAG4n_NxaxsWa; domain=.ticketmaster.com; path=/\0\0\0\xa1\x42ID=RM-rDN8e9Z04n8cXttPPrcg8TTxVF6FTEd3fVT3Z6Iqjcfwr3fLCkThgqfkJqB54BcLeaQpyCjCQNkkM3gKF; expires=Fri, 01-Jan-2038 00:00:01 GMT; domain=.ticketmaster.com; path=/)"

@@ -1,0 +1,2 @@
+[General]
+cookies="@Variant(\0\0\0\x7f\0\0\0\x16QList<QNetworkCookie>\0\0\0\0\x1\0\0\0\x3\0\0\0QMyLocation=US; expires=Mon, 05-Sep-2016 19:57:42 GMT; domain=www.ikea.com; path=/\0\0\0\xd2utag_main=v_id:0156fbe8f0b1001b1f7d29dc803b00066001405e00720$_sn:1$_ss:1$_st:1473106962418$ses_id:1473105162418%3Bexp-session$_pn:1%3Bexp-session; expires=Tue, 05-Sep-2017 19:52:42 GMT; domain=.ikea.com; path=/\0\0\0hs_fid=7D9591EB8A2BD5AC-33F765034066F337; expires=Sun, 05-Sep-2021 19:52:42 GMT; domain=.ikea.com; path=/)"

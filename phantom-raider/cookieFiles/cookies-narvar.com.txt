@@ -1,0 +1,2 @@
+[General]
+cookies="@Variant(\0\0\0\x7f\0\0\0\x16QList<QNetworkCookie>\0\0\0\0\x1\0\0\0\x3\0\0\0\xd8\x41WSELB=25F7C54108BAD3629D5A7444AC166F0400349D28E584B09E3C096C0360F0C82C02D4909C5DDF094B3C6ED2372950FD53A7CA3FC32B5A2431EFF29F6545B875FBA11EFCF350; expires=Mon, 05-Sep-2016 21:52:57 GMT; domain=corp.narvar.com; path=/\0\0\0\x62_ga=GA1.2.1852351829.1473105178; expires=Wed, 05-Sep-2018 19:52:58 GMT; domain=.narvar.com; path=/\0\0\0I_gat=1; expires=Mon, 05-Sep-2016 20:02:58 GMT; domain=.narvar.com; path=/)"

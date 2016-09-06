@@ -1,0 +1,2 @@
+[General]
+cookies="@Variant(\0\0\0\x7f\0\0\0\x16QList<QNetworkCookie>\0\0\0\0\x1\0\0\0\x1\0\0\0^_icl_current_language=en; expires=Tue, 06-Sep-2016 19:29:32 GMT; domain=www.curiyo.com; path=/)"

@@ -1,0 +1,1 @@
+{"startedDateTime":"2016-09-05T19:52:41.981Z","url":"http://www.ikea.com/","responseCookies":"eaesssn=bf0c0317d90a00000acdcd5715000000600d0000; path=/; domain=.ikea.com\nMyLocation=US; expires=Mon, 05-Sep-2016 19:57:42 GMT","pageref":"http://ikea.com"}

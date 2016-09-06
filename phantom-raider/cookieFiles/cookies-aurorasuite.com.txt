@@ -1,0 +1,2 @@
+[General]
+cookies="@Variant(\0\0\0\x7f\0\0\0\x16QList<QNetworkCookie>\0\0\0\0\x1\0\0\0\x1\0\0\0\xcc.ASPXANONYMOUS=7nUpCUE-0gEkAAAANjg0ZjFkNTAtNTM4Ni00YmExLThiZmYtYmJiZGMzNWRkZTk3DCIBTAqWY2MU9eIHb1tMdbnY6PdiV2X4IZDFb9J_uCQ1; HttpOnly; expires=Mon, 14-Nov-2016 06:33:39 GMT; domain=aurorasuite.com; path=/)"

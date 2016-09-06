@@ -1,0 +1,2 @@
+[General]
+cookies="@Variant(\0\0\0\x7f\0\0\0\x16QList<QNetworkCookie>\0\0\0\0\x1\0\0\0\x3\0\0\0\x63_ga=GA1.2.1779525914.1473103463; expires=Wed, 05-Sep-2018 19:24:23 GMT; domain=.cinarra.com; path=/\0\0\0J_gat=1; expires=Mon, 05-Sep-2016 19:34:23 GMT; domain=.cinarra.com; path=/\0\0\0obx_user_id=f57989315ef0653afc59e9bed636d263; expires=Thu, 03-Sep-2026 19:24:24 GMT; domain=.bitrix.info; path=/)"

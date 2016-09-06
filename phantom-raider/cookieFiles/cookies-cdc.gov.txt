@@ -1,0 +1,2 @@
+[General]
+cookies="@Variant(\0\0\0\x7f\0\0\0\x16QList<QNetworkCookie>\0\0\0\0\x1\0\0\0\x3\0\0\0__ga=GA1.2.1050814829.1473105721; expires=Wed, 05-Sep-2018 20:02:01 GMT; domain=.cdc.gov; path=/\0\0\0P_gat_GSA_ENOR0=1; expires=Mon, 05-Sep-2016 20:12:01 GMT; domain=.cdc.gov; path=/\0\0\0qs_vi=[CS]v1|2BE6E79C85194C0C-60000609E0014561[CE]; expires=Wed, 05-Sep-2018 20:02:01 GMT; domain=.cdc.gov; path=/)"

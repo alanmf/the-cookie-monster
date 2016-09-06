@@ -1,0 +1,2 @@
+[General]
+cookies="@Variant(\0\0\0\x7f\0\0\0\x16QList<QNetworkCookie>\0\0\0\0\x1\0\0\0\x2\0\0\0\x61_ga=GA1.2.2128154910.1473104045; expires=Wed, 05-Sep-2018 19:34:05 GMT; domain=.swoop.com; path=/\0\0\0H_gat=1; expires=Mon, 05-Sep-2016 19:44:05 GMT; domain=.swoop.com; path=/)"

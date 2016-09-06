@@ -1,0 +1,1 @@
+{"startedDateTime":"2016-09-05T19:39:30.108Z","url":"http://www.google.ca/","responseCookies":"NID=85=SACHZMkqrhK5ZcSzEsJbTsYMgwXw1dUWHx5cxXX2UtgSyNZ9JcP0L72js5ipN70y61eROJEx3g0rkvne4Ztk9j81C3RTAyhPraL-fVQRVdQYH-h0Xv9bEyv7V2Rivbpg; expires=Tue, 07-Mar-2017 19:39:30 GMT; path=/; domain=.google.ca; HttpOnly","pageref":"http://google.ca"}

@@ -1,0 +1,1 @@
+{"startedDateTime":"2016-09-05T19:19:08.291Z","url":"http://ca.gov/","responseCookies":"ASP.NET_SessionId=dhyyd0kwoe5onqi2kzwolxik; path=/; HttpOnly\nSC_ANALYTICS_GLOBAL_COOKIE=3c6aa8be4de446b5b4a1892f6baf4423|False; expires=Sat, 05-Sep-2026 19:19:08 GMT; path=/; HttpOnly","pageref":"http://ca.gov"}

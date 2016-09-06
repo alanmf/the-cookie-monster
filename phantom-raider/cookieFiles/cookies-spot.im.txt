@@ -1,0 +1,2 @@
+[General]
+cookies="@Variant(\0\0\0\x7f\0\0\0\x16QList<QNetworkCookie>\0\0\0\0\x1\0\0\0\x2\0\0\0__ga=GA1.2.2103604950.1473105470; expires=Wed, 05-Sep-2018 19:57:49 GMT; domain=.spot.im; path=/\0\0\0\x46_gat=1; expires=Mon, 05-Sep-2016 20:07:49 GMT; domain=.spot.im; path=/)"

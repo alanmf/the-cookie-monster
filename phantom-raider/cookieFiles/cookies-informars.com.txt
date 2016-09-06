@@ -1,0 +1,2 @@
+[General]
+cookies="@Variant(\0\0\0\x7f\0\0\0\x16QList<QNetworkCookie>\0\0\0\0\x1\0\0\0\x3\0\0\0s_ga=GA1.2.1466703919.1473104669; expires=Wed, 05-Sep-2018 19:44:29 GMT; domain=.informaresearchservices.com; path=/\0\0\0Z_gat=1; expires=Mon, 05-Sep-2016 19:54:29 GMT; domain=.informaresearchservices.com; path=/\0\0\0zwfvt_3889139821=57cdcb1d07ea3; HttpOnly; expires=Mon, 05-Sep-2016 20:14:29 GMT; domain=informaresearchservices.com; path=/)"

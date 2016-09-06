@@ -1,0 +1,2 @@
+[General]
+cookies="@Variant(\0\0\0\x7f\0\0\0\x16QList<QNetworkCookie>\0\0\0\0\x1\0\0\0\x2\0\0\0rWMF-Last-Access=05-Sep-2016; secure; HttpOnly; expires=Fri, 07-Oct-2016 12:00:00 GMT; domain=wikipedia.org; path=/\0\0\0vWMF-Last-Access=05-Sep-2016; secure; HttpOnly; expires=Fri, 07-Oct-2016 12:00:00 GMT; domain=www.wikipedia.org; path=/)"

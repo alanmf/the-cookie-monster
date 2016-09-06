@@ -1,0 +1,2 @@
+[General]
+cookies="@Variant(\0\0\0\x7f\0\0\0\x16QList<QNetworkCookie>\0\0\0\0\x1\0\0\0\x2\0\0\0gcl_b=YhEYLppz5hG3VoLvIKBP-QXqEgU; expires=Fri, 01-Jan-2038 00:00:00 GMT; domain=.craigslist.org; path=/\0\0\0Vcl_def_hp=provo; expires=Tue, 05-Sep-2017 18:18:43 GMT; domain=.craigslist.org; path=/)"

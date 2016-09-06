@@ -1,0 +1,2 @@
+[General]
+cookies="@Variant(\0\0\0\x7f\0\0\0\x16QList<QNetworkCookie>\0\0\0\0\x1\0\0\0\x3\0\0\0sUID=1BF18484a18078a47cd30ec1473101573; expires=Sun, 26-Aug-2018 18:52:53 GMT; domain=.scorecardresearch.com; path=/\0\0\0]UIDR=1473101573; expires=Sun, 26-Aug-2018 18:52:53 GMT; domain=.scorecardresearch.com; path=/\0\0\0Tflash_enabled=0; expires=Wed, 05-Oct-2016 18:52:54 GMT; domain=www.yahoo.com; path=/)"

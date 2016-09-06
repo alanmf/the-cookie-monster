@@ -1,0 +1,1 @@
+{"startedDateTime":"2016-09-05T20:03:05.944Z","url":"http://freeembroiderystuff.embroiderydesigns.com/","responseCookies":"ASP.NET_SessionId=o5e00sb3htate0ezgbewyhj1; path=/; HttpOnly","pageref":"http://freeembroiderystuff.com"}

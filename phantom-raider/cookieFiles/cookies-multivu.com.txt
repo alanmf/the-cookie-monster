@@ -1,0 +1,2 @@
+[General]
+cookies="@Variant(\0\0\0\x7f\0\0\0\x16QList<QNetworkCookie>\0\0\0\0\x1\0\0\0\x2\0\0\0ks_fid=7BCC576170019E1E-086E61B706B93684; expires=Wed, 05-Sep-2018 19:28:30 GMT; domain=.multivu.com; path=/\0\0\0\x80s_vi=[CS]v1|2BE6E3AF051D3F9F-40000135E0001499[CE]; expires=Wed, 05-Sep-2018 19:28:30 GMT; domain=.prnewswire.122.2o7.net; path=/)"

@@ -1,0 +1,2 @@
+[General]
+cookies="@Variant(\0\0\0\x7f\0\0\0\x16QList<QNetworkCookie>\0\0\0\0\x1\0\0\0\x2\0\0\0lVISITOR_INFO1_LIVE=XpNLQQvr1lE; HttpOnly; expires=Sun, 07-May-2017 07:35:30 GMT; domain=.youtube.com; path=/\0\0\0IGPS=1; expires=Mon, 05-Sep-2016 20:12:30 GMT; domain=.youtube.com; path=/)"

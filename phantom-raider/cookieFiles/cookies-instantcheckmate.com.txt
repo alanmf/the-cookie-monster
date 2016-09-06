@@ -1,0 +1,2 @@
+[General]
+cookies="@Variant(\0\0\0\x7f\0\0\0\x16QList<QNetworkCookie>\0\0\0\0\x1\0\0\0\x4\0\0\0\x8b__cfduid=d76922204af3c32db93042bf2c4803bb01473103376; HttpOnly; expires=Tue, 05-Sep-2017 19:22:56 GMT; domain=.instantcheckmate.com; path=/\0\0\0l_ga=GA1.2.1738539541.1473103377; expires=Wed, 05-Sep-2018 19:22:57 GMT; domain=.instantcheckmate.com; path=/\0\0\0S_gat=1; expires=Mon, 05-Sep-2016 19:32:57 GMT; domain=.instantcheckmate.com; path=/\0\0\0\x66test_cookie=CheckForPermission; expires=Mon, 05-Sep-2016 19:37:57 GMT; domain=.doubleclick.net; path=/)"

@@ -1,0 +1,2 @@
+[General]
+cookies="@Variant(\0\0\0\x7f\0\0\0\x16QList<QNetworkCookie>\0\0\0\0\x1\0\0\0\x2\0\0\0`_ga=GA1.2.1852685905.1473103789; expires=Wed, 05-Sep-2018 19:29:48 GMT; domain=.noaa.gov; path=/\0\0\0G_gat=1; expires=Mon, 05-Sep-2016 19:39:48 GMT; domain=.noaa.gov; path=/)"

@@ -1,0 +1,9 @@
+Phantom raider is the beginning of a project to crawl the web and get cookie data from sites.
+
+Right now, there is a text file containing the top million (or so) sites on the internet, from which we can do a 'pseudo' crawl by using readFile.py.
+
+phantomRaider.js is run with phantomjs, in the following manner (make sure you have phantomjs installed and use the correct path to the binary.
+
+`bin/phantomjs --cookies-file=cookieFileName.txt phantomRaider.js http://www.adobe.com`
+
+

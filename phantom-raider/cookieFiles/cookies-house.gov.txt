@@ -1,0 +1,2 @@
+[General]
+cookies="@Variant(\0\0\0\x7f\0\0\0\x16QList<QNetworkCookie>\0\0\0\0\x1\0\0\0\x4\0\0\0J__utmt=1; expires=Mon, 05-Sep-2016 19:53:24 GMT; domain=.house.gov; path=/\0\0\0\x7f__utma=60566196.1696034792.1473104604.1473104604.1473104604.1; expires=Wed, 05-Sep-2018 19:43:24 GMT; domain=.house.gov; path=/\0\0\0\x61__utmb=60566196.1.10.1473104604; expires=Mon, 05-Sep-2016 20:13:24 GMT; domain=.house.gov; path=/\0\0\0\x8e__utmz=60566196.1473104604.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); expires=Tue, 07-Mar-2017 07:43:24 GMT; domain=.house.gov; path=/)"
