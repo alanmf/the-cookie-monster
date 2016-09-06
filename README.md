@@ -4,7 +4,7 @@ The cookie monster is a set of services intended to help large scale data analys
 
 1. **Server** - an API for reporting on the data set. Utilizes Spark to read HDFS and RabbitMQ to send messages to gather new data sets.
 2. **Phantom Raider** - Scripts that run PhantomJS to gather cookies from the web. Currently in the folder is a list of the top million (or so) internet sites, and previously collected cookie data.
-3. **Web Client** - A reactJS web client that consumes the API and serves responses.
+3. **Web Client** - A reactJS web client that consumes the API and displays data in a user interface. Utilizes React Bootstrap.
 
 ## Server
 
