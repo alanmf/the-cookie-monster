@@ -1,0 +1,32 @@
+{
+  "name": "cookie-monster",
+  "version": "1.0.0",
+  "description": "Cookie Analysis UI tool",
+  "main": "index.js",
+  "dependencies": {
+    "babel-preset-react": "^6.11.1",
+    "babelify": "^7.3.0",
+    "react": "^15.3.1",
+    "react-bootstrap": "^0.30.3",
+    "react-dom": "^15.3.1"
+  },
+  "devDependencies": {
+    "browserify": "^5.11.2",
+    "watchify": "^3.7.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "browserify scripts/main.js -o builds/app.js -t [ babelify ]",
+    "watch": "watchify --debug scripts/main.js -o builds/app.js -t [ babelify ]"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alanmf/the-cookie-monster.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alanmf/the-cookie-monster/issues"
+  },
+  "homepage": "https://github.com/alanmf/the-cookie-monster#readme"
+}
