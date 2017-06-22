@@ -10,12 +10,12 @@ The cookie monster is a set of services intended to help large scale data analys
 
 The server is the core of the system. It runs Spark to query HDFS and return results on the cookie set, it runs an API using https://github.com/finagle/finch . Currently, HDFS is running locally; the data it is querying is located at the root of the project, https://github.com/alanmf/the-cookie-monster/blob/master/browserCookies.txt
 
-####Running queries in the console:
+#### Running queries in the console:
 
 You should be able to run the console of the API if you add the browserCookies.txt file to hadoop, and change the reference here if need be: https://github.com/alanmf/the-cookie-monster/blob/master/server/src/main/scala/cookie/monster/Spark.scala#L19
 
 There are currently 3 separate queries: 
-#####1. mostCommonUrlHost() -   Return the URL of the host domain that is responsible for setting the most cookies.
+##### 1. mostCommonUrlHost() -   Return the URL of the host domain that is responsible for setting the most cookies.
 https://github.com/alanmf/the-cookie-monster/blob/master/server/src/main/scala/cookie/monster/Spark.scala#L39-L43
 ```
 scala> val x = cookie.monster.SparkReporting.mostCommonUrlHost
@@ -23,7 +23,7 @@ scala> val x = cookie.monster.SparkReporting.mostCommonUrlHost
 x: Option[String] = Some(www.facebook.com)
 ```
 
-#####2. pagesWithMostCookies() -   Get the pages that are setting the most cookies.
+##### 2. pagesWithMostCookies() -   Get the pages that are setting the most cookies.
 https://github.com/alanmf/the-cookie-monster/blob/master/server/src/main/scala/cookie/monster/Spark.scala#L62-L69
 ```
   scala> val x = cookie.monster.SparkReporting.pagesWithMostCookies
@@ -40,7 +40,7 @@ https://github.com/alanmf/the-cookie-monster/blob/master/server/src/main/scala/c
   )
 ```
 
-#####2. cookieKeysWithValues(sampleSize: Int) -     Return a random sample of keys with their grouped values.
+##### 2. cookieKeysWithValues(sampleSize: Int) -     Return a random sample of keys with their grouped values.
 https://github.com/alanmf/the-cookie-monster/blob/master/server/src/main/scala/cookie/monster/Spark.scala#L87-L95
 ```
   scala> val x = cookie.monster.SparkReporting.cookieKeysWithValues(5)
@@ -55,7 +55,7 @@ https://github.com/alanmf/the-cookie-monster/blob/master/server/src/main/scala/c
   )
 ```
 
-####TODO:
+#### TODO:
 1. Dynamic HDFS file usage
 2. More functions for analysis, specifically regarding advertising and analytics tags that are setting cookies.
 3. Authentication
@@ -100,12 +100,12 @@ To run, use the following steps:
 
 ## Serving the application
 
-###For now, we use a simple local Python server, taken from the React tutorial.
+### For now, we use a simple local Python server, taken from the React tutorial.
 
-####Install dependencies defined in requirements.txt:
+#### Install dependencies defined in requirements.txt:
 ```pip install -r requirements.txt```
 
-####Run the server:
+#### Run the server:
 ```python server.py```
 
 
